@@ -29,7 +29,7 @@ Go round the room and quickly have everyone introduce themselves.
 
 We want to mix these groups up as much as we can. Try to be in a group with people you don't know. Let's get a mix of developer and non, green and experienced, newspaper and online, print and broadcast, whatever. 
 
-Our goal today is somewhat broadly defined, and I want each group to be able to decide what you're going to produce, but here are some rough guidelines. We're not looking for another Google doc of bullet points. This can be code. This can be user stories. This can be prototypes. This can be an interpretive dance cycle. Whatever you think will have legs beyond this room. If you want to use a very strict, d-school, HCD process, go for it. **We're looking for both strategy and tactics here.** 
+Our goal today is somewhat broadly defined, and I want each group to be able to decide what you're going to produce, but here are some rough guidelines. We're not looking for another Google doc of bullet points. This can be code. This can be user stories. This can be prototypes. This can be an interpretive dance cycle. Whatever you think will have legs beyond this room. If you want to use a very strict, d-school, HCD process, go for it. If you want everything to be about agile, fine. **We're looking for both strategy and tactics here.** 
 
 I want you to answer this question:
 
