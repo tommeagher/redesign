@@ -1,10 +1,8 @@
-#Before we can fix the news,
-
-#we need to redesign the newsroom
+##Before we can fix the news, we need to redesign the newsroom
 
 *Rough notes for the workshop on 3 p.m. Thursday, July 24 [at SRCCON](http://schedule.srccon.org/#_session-11)*
 
-Our goal: Let's get a bunch of smart people in a room and work together to produce a set of action-oriented recommendations for news organizations to truly adopt and integrate developers into their newsrooms as journalists.
+Let's get a bunch of smart people in a room and work together to produce a set of action-oriented recommendations for news organizations to truly adopt and integrate developers into their newsrooms as journalists.
 
 In this session, I’d like us to talk about how we can redesign the newsroom itself to upend our clunky workflows pegged to Sunday’s newspaper instead of today’s news online. 
 
@@ -18,6 +16,7 @@ Too many news organizations, large and small, still either don't have news devel
 
 ###Today's session should break down roughly like this:
 *25 mins - intro/venting/clearing the air*
+
 Recruit a note taker for the scene setting
 
 Go round the room and quickly have everyone introduce themselves. 
@@ -63,6 +62,7 @@ Some questions you'll want to consider:
 
 Keep in mind:
 - We're talking about using code to build stories, experiences and tools, not getting more people comfortable with using existing tools, like cell phones, Twitter, etc.
+- Newsroom managers tend to think of every staffing decision as a zero-sum game. "If we need a body to cover the courts, who will lay out the Family Circus page? WE HAVE TO HAVE A FAMILY CIRCUS PAGE OR THERE WILL BE RIOTING IN THE STREETS!" As much as you can, be prepared for these kind of counter arguments.
 - Assume the worst. No newsroom is going to magically find $500,000 in their budget to hire a team of 5. What is a realistic path here?
 - This is not nearly enough time to do this exercise, but it's better to start than to do nothing at all.
 
