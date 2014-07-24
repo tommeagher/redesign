@@ -62,6 +62,7 @@ Some questions you'll want to consider:
 
 Keep in mind:
 - We're talking about using code to build stories, experiences and tools, not getting more people comfortable with using existing tools, like cell phones, Twitter, etc.
+- We're not talking about the exceptional newsrooms here. The New York Times and ProPublica and the Washington Post are fine. They don't need our help. We're talking about the El Paso Times, the Redlands Daily Facts or the Columbia Daily Tribune.
 - Newsroom managers tend to think of every staffing decision as a zero-sum game. "If we need a body to cover the courts, who will lay out the Family Circus page? WE HAVE TO HAVE A FAMILY CIRCUS PAGE OR THERE WILL BE RIOTING IN THE STREETS!" As much as you can, be prepared for these kind of counter arguments.
 - Assume the worst. No newsroom is going to magically find $500,000 in their budget to hire a team of 5. What is a realistic path here?
 - This is not nearly enough time to do this exercise, but it's better to start than to do nothing at all.
