@@ -142,6 +142,7 @@ They had several suggestions for tactics and advantages that could make a differ
 - Organizational flexibility
 
 Roles we need
+
 1. Editor/CEO who has clear commitment to organizational design and prioritizing integration in newsroom
 2. Office manager
 3. HR person focused on organizational goodness
@@ -149,6 +150,7 @@ Roles we need
 5. Ad sales
 
 In newsroom
+
 1. Photo/vid/visual journalist
 2. Front-end dev, designer
 3. Data reporter, investigative
