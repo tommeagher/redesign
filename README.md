@@ -119,7 +119,35 @@ This team faced maybe the biggest conceptual (and financial) hurdle of the exerc
 
 ###The non-profit, investigative site
 
-This group started by identifying some of the common frustrations and obstacles they'd hope to ameliorate with their new newsroom:
+This group started with some constraints and some characteristics.
+
+"We aimed for a news org employing ten people, of whom six were editorial. We ended up with eleven. The site was based in San Diego.
+We didn't articulate the mission in the session, but I think we were working with the assumption that it was an accountability-type newsroom with beats and topics flowing from the needs of the San Diego community."
+
+"After identifying all the skills and work that would need to be done, we grouped them into newsroom roles. Our approach here was to produce realistic job descriptions, avoiding unicorns by hiring for deep skills according to the job title, but looking for people with the possiblity of aptitudes beyond the title: techs who can write, reporters who can photograph and count."
+
+In newsroom
+
+1. Photo/vid/visual journalist
+2. Front-end interaction designer/developer
+3. Data reporter, investigative
+4. Metrics/Project Manager/Audit person — makes things happen, then asks whether they are working
+5. Developer with some crossover skills
+6. Writer/reporter
+
+Business Roles
+
+1. Editor/CEO 
+This, of course, is a crucial role. Her primary responsibilities are fostering team cohesion, keeping the team focussed and motivated. That means she would need to have a strong commitment to organizational design and prioritizing integration in the newsroom. Unlike many CEO roles, this is a very 'inward' facing role, instead of being the most active public face. 
+Working collaboratively with the team, she articulates the editorial agenda and makes the call on priorities and what a story or product is ready to ship.
+2. Office manager
+3. HR person
+This is not your grandma's HR. We're putting the 'human' back in human resources. Spiritually-oriented folk might think of this role as the Gaia. He or she is responsible for organizational goodness, working closely with the CEO to make sure the whole team has what they need to produce great work; workloads are healthy and the right kit is available.
+4. Biz dev/UX/sociologist/anthropologist
+This is the main outward-facing business role. It's the ultimate in marketing; understanding the local community, its journalism needs, what service the organization can provide, the intersection of those and what funders can be convinced to pay for. Then getting those dollar bills to flow, baby.
+5. Ad sales
+
+We designed the organization and operating model to avoid the following risks:
 - unclear roles.
 - too many roles.
 - overwork.
@@ -127,7 +155,7 @@ This group started by identifying some of the common frustrations and obstacles 
 - Competing for resources
 - too many ideas, not enough action.
 
-They had several suggestions for tactics and advantages that could make a difference:
+We had several suggestions for tactics and advantages that could make a difference:
 - Clearly defined and communicated goals
 - Training each other — have everyone involved, participate in training
 - Have everyone sit together in the room
@@ -138,25 +166,8 @@ They had several suggestions for tactics and advantages that could make a differ
 - Flexibility, dogs at work
 - Ongoing skills development
 - Evaluate and reflect — needs to come from top of the org
-- Treat the week as a work unit
+- Treat the week as the work unit
 - Organizational flexibility
-
-Roles we need
-
-1. Editor/CEO who has clear commitment to organizational design and prioritizing integration in newsroom
-2. Office manager
-3. HR person focused on organizational goodness
-4. Biz dev/UX/sociologist/anthropologist
-5. Ad sales
-
-In newsroom
-
-1. Photo/vid/visual journalist
-2. Front-end dev, designer
-3. Data reporter, investigative
-4. Metrics/Project Manager/Audit person — makes things happen, then asks whether they are working
-5. Developer with some crossover skills
-6. Another writer/reporter?
 
 
 ###Breaking all the news!
