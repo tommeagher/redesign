@@ -99,7 +99,7 @@ This small organization create a tightly integrated, multidisciplinary newsroom,
 
 ![The Scone](photos/the_scone2.JPG)
 
-At daily meetings, all department heads and project managers would pitch stories and coordinate staffing. For each project, ad-hoc teams with specialists in each medium would be spun up, and they would co-locate for the duration of the project. They'd hope this could make journalists more tech savvy while forcing coders to be more editorially minded. For the developers, the bar would be set very high for documentation and reusability.
+At daily meetings, all department heads and project managers would pitch stories and coordinate staffing. For each project, ad-hoc teams with specialists in each medium would be spun up, and they would co-locate for the duration of the project. They'd hope this could make journalists more tech savvy while forcing coders to be more editorially minded. For the developers, the bar would be set very high for documentation and reusability. The idea is for all of the parts of the newsroom to function as an orchestra, making beautiful music together with the project manager as the conductor (thus "The Score").
 
 ![The meeting](photos/the_scone.JPG)
 
