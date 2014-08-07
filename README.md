@@ -2,19 +2,19 @@
 
 *Rough notes from the workshop on Thursday, July 24, 2014 [at SRCCON](http://schedule.srccon.org/#_session-11) in Philadelphia.*
 
-In this session, I’d like us to talk about how we can redesign the newsroom itself to upend our clunky workflows pegged to Sunday’s newspaper instead of today’s news online.
+In this session, I’d like us to talk about how we can redesign the newsroom itself to upend our clunky workflows pegged to Sunday’s paper instead of online today.
 
-Let's get a bunch of smart people in a room to produce action-oriented recommendations for news organizations to adopt and integrate developers into their newsrooms as journalists.
+Let's get a bunch of smart people in a room to produce action-oriented recommendations for news organizations to integrate developers into their newsrooms as journalists.
 
 ![Hard at work](photos/working.JPG)
 
-Until this spring, I worked for a major U.S. newspaper chain that operated 75 papers in 17 states. The company had zero developers in its newsrooms working on editorial projects. At my paper before that, we had zero developers in our newsroom, and no one in the company overtly doing news development. The status quo in both of those companies was that my team had to wage a guerilla war on the IT departments and the product and CMS divisions to do the kind of journalism we know is important and to get our jobs done. Building and maintaining the CMS is critical, and product development is important, but in my mind, every newsroom needs to have people who can crunch data and build interactive graphics and news apps. How do we make that happen, when the vast majority of American newsrooms are like those in my former companies?
+Until this spring, I worked for a major U.S. newspaper chain that operated 75 papers in 17 states. The company had zero developers in its newsrooms working on editorial projects. At my paper before that, we had zero developers in our newsroom, and no one in the company overtly doing news development. The status quo in both of those companies was that my teams had to wage guerilla war on the IT departments and the product and CMS divisions to do the kind of journalism we know is important. Building and maintaining the CMS is critical, and product development is important, but in my mind, every newsroom needs to have people who can crunch data and build interactive graphics and news apps. How do we make that happen, when the vast majority of American newsrooms are like those in my former companies?
 
-In May, I attended to a workshop hosted by ASNE called "Hacking News Leadership," which brought introduced top editors from major metro dailies to data journalists and news developers. We spent a couple of days talking about some of these issues and the resulting  [recommendations are worth a quick read](http://bit.ly/1A7p0r8). It was a good first step for many of the editors there to hear about this journalism. But there was one thing that [Trei Brundrett](https://twitter.com/ultracasual/status/462658533524123649) said that got me thinking:
+In May, I attended a workshop hosted by ASNE called "Hacking News Leadership," which introduced top editors from major metro dailies to data journalists and news developers. We spent a couple of days talking about some of these issues and the resulting [recommendations are worth a quick read](http://bit.ly/1A7p0r8). It was a good first step the editors there to hear about this journalism. But there was one thing [Trei Brundrett](https://twitter.com/ultracasual/status/462658533524123649) said that got me thinking:
 
 > The most interesting design challenge of 2014 is of our organizations and how they work.
 
-Too many news organizations, large and small, still either don't have news developers. If they do, they're strapped on to the side of a workflow that revolves around making a great Sunday newspaper. We can do better than that. This exercise is about more than just rearranging deck chairs. Together, we can wipe the slate clean and design a newsroom that builds skills throughout the organization and forces people to think smarter about the internet as a primary medium rather than an afterthought.
+Too many news organizations, large and small, still don't have news developers. If they do, they're strapped on to the side of a workflow that revolves around making a great Sunday paper. We can do better than that. This exercise is about more than just rearranging deck chairs. Together, we can wipe the slate clean and design a newsroom that builds skills throughout the organization, forcing people to think smarter about the internet as a primary medium rather than an afterthought.
 
 ###The session will break down like this:
 *25 mins - intro/venting/clearing the air*
@@ -29,9 +29,9 @@ Go round the room and quickly have everyone introduce themselves.
 
 The frustrations that came out of these introductions were probably all too familiar to anyone who's worked in a newsroom:
 - There's a huge need for interactive news development, but very little value is placed on it by newsroom leaders.
-- Organization's operating structures get in the way.
+- An organization's operating structures get in the way.
 - Data/news apps teams are seen as toys rather than integral.
-- The desk structure of a print paper carries over to tech product.
+- The desk structure of a print paper carries over to the online product.
 - Each team is disconnected from the others.
 - Everyone is reproducing the same problems we've always had.
 - If it's a team of one, that person can sometimes be allowed to do what they want, if they stay under the radar.
@@ -47,18 +47,18 @@ Try to be in a group with people you don't know. Let's get a good mix of develop
 
 Our goal is broadly defined, and I want each group to decide what you're going to produce, but here are some rough guidelines. We're not looking for another Google doc of bullet points. This can be code. This can be user stories. This can be prototypes. This can be an interpretive dance cycle. Whatever you think will have legs beyond this room. If you want to use a very strict, d-school, HCD process, go for it. If you want everything to be about agile, fine. **We're looking for both strategy and tactics here.**
 
-I want you to answer this question:
+Answer this question:
 
 >How might we help integrate journalist-developers into our newsrooms and build more folks with those skills to produce high quality journalism online?
 
-Your group will be assigned one of these scenarios to  tackle:
+Your group will be assigned one of these scenarios to tackle:
 - A general interest, mid-sized metropolitan newspaper company with online operations of some sort.
 - A small newspaper with limited web presence and no history of news development
 - A for-profit online-only startup newsroom covering a single subject or area.
 - A breaking news centered operation
 - A non-profit, investigative news operation.
 
-At least one person in your group should be a notetaker. Each group should decide who will present their conclusions, either one person or the group as a whole.
+At least one person in your group should be a notetaker. Each group should decide who will present its conclusions, either one person or the group as a whole.
 
 If you haven't, look at the recommendations that came out of the [Hacking News Leadership](http://bit.ly/1kVq3ke) conference.
 
@@ -95,7 +95,7 @@ Here's what we came up with...
 
 A for-profit online-only startup newsroom covering a single subject or area.
 
-This small organization create a tightly integrated, multidisciplinary newsroom, with writers, visual journalists, project managers, developers and beat reporters working side by side. Business development and marketing would play a central role in the newsroom as well.
+This small organization created a tightly integrated, multidisciplinary newsroom, with writers, visual journalists, project managers, developers and beat reporters working side by side. Business development and marketing would play a central role in the newsroom as well.
 
 ![The Scone](photos/the_scone2.JPG)
 
@@ -103,19 +103,19 @@ At daily meetings, all department heads and project managers would pitch stories
 
 ![The meeting](photos/the_scone.JPG)
 
-The one concern raised was that ad hoc teams can be hard, particularly early in the life of an organization. With the potential for high turnover, it can take time to learn how to collaborate and work together. The hope from the team, however, was that by quickly forming teams for each project, you could learn much easier which people work well together. When there's a good match between a reporter and a designer or a developer and an editor, for instance, the newsroom would try to keep pairing them for future projects. When a team doesn't work as well together, it's evaluated and recalibrated for the next story.
+One concern raised was that ad hoc teams can be hard, particularly early in the life of an organization. With the potential for high turnover, it can take time to learn how to collaborate and work together. The hope from the team, however, was that by quickly forming teams for each project, you could learn much easier which people work well together. When there's a good match between a reporter and a designer or a developer and an editor, for instance, the newsroom would try to keep pairing them for future projects. When a team doesn't work as well together, it's evaluated and recalibrated for the next story.
 
 ###The small local paper
 
-"Our scenario was kind of fraught," said Davis Shaver, at the start of this team's report back. Charged with figuring out how bring editorial development skills to a small paper focused on local news, which had little to no potential funding for new kinds of staffing, this may have been the hardest scenario of the workshop.
+"Our scenario was kind of fraught," said Davis Shaver, at the start of this team's report back. Charged with figuring out how to bring editorial development skills to a small paper focused on local news, with little to no potential funding for new staffing, this may have been the hardest scenario of the workshop.
 
 This team team batted around several ideas for creative ways to build revenue and cut costs to pay for development skills. They floated the idea of putting the newsroom in the back of a coffee shop, as one paper in Connecticut has done. They talked about building an online agency that would spend 75 percent of its time working on commercial projects for local businesses and the remainder on editorial projects.
 
-Another huge concern was building skills and retaining talent in a newsroom with potentially high turnover. Good people leave quickly, and those who stay for eons may not be the best journalists you want to keep. They suggested partnering with outside professional organizations, like API or ONA, to set up a pipeline of inexpensive training to help retain talent. They mused about converting an editor or copy desk job into a coach role, having someone whose entire job was oriented to improving the coverage and providing continuity of skills through the turnover and to stave off attrition, in a sector of the industry where many talented people are jumping off of every ship they can find.
+Another huge concern was building skills and retaining talent in a newsroom with potentially high turnover. Good people leave quickly, and those who stay for eons may not be the best journalists you want to keep. They suggested partnering with outside professional organizations, like API or ONA, to set up a pipeline of inexpensive training to help retain talent. They mused about converting an editor or copy desk job into a coach role, someone whose entire job is to improve coverage and provide continuity of skills through the turnover. They hoped this would help stave off attrition, in a sector of the industry where many talented people are jumping off of every ship they can find.
 
-Perhaps this paper drop days of print and use that time and savings to focus on online community building instead of meeting coverage. One cool idea from the rest of the room was to develop an in-house Mechanical Turk, hiring clerks to handle transcription and data entry projects for other businesses.
+Perhaps this paper drops days of print and uses the time and savings to focus on online community building instead of meeting coverage. One cool idea from the rest of the room was to develop an in-house Mechanical Turk, hiring clerks to handle transcription and data entry projects for other local businesses.
 
-This team faced maybe the biggest conceptual (and financial) hurdle of the exercise, and its members seemed to feel their paper's pain the most viscerally. Half of the team left before the end of the session and those who remained looked exhausted and downtrodden during their pitch.
+This team faced maybe the biggest conceptual (and financial) hurdle of the exercise, and its members seemed to feel their paper's pain the most viscerally. Half of the team left before the end of the session, and those who remained looked exhausted and downtrodden during their pitch.
 
 ###The non-profit, investigative site
 
@@ -169,7 +169,6 @@ We had several suggestions for tactics and advantages that could make a differen
 - Treat the week as the work unit
 - Organizational flexibility
 
-
 ###Breaking all the news!
 The team tasked with rethinking a news operation whose primary focus is covering breaking news had an intriguing suggestion for building competency (and empathy) across departments. Each person would spend 20 percent of his or her time rotating through other desks and departments.
 
@@ -195,7 +194,7 @@ Rather than creating a "news apps" desk or "interactive team" that served the ne
 
 The thinking behind this team is to avoid a separate staff from the general newsroom and from the IT department. After some successes, the model could move to other beats or grow the team. "Everyone loves a beat. If we're going to truly infiltrate them, we need to learn to walk among them and speak their language."
 
-As this team racks up successes, there'd be a real danger of being co-opted by the IT team. To avoid this, the newsroom developers would have to make friendly with IT and could play "Trading Places", rotating IT folks into the team for weeks or months at a time. This could give the IT staff a stake in making sure the team succeeds. The news devs and IT folks could also be on a single Slack instances to trade GIFs.
+As this team racks up successes, there'd be a real danger of being co-opted by the IT team. To avoid this, the newsroom developers would have to make friendly with IT and could play "Trading Places", rotating IT folks into the team for weeks or months at a time. This could give the IT staff a stake in making sure the team succeeds. The news devs and IT folks could also be on a single Slack instance to trade GIFs.
 
 There would also likely be a motion to have the news developers report to the head of IT or product because presumably journalists don't know how to manage coders. This team recommended ignoring that impulse and keeping the devs integrated in the newsroom management structure.
 
